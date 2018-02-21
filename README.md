@@ -78,9 +78,9 @@ ex) He is supposed to be here. - 그가 여기 있어야 하는데 지금쯤(그
 
 `CH`: It\`s very important to me. It is our first class. What do you want me to do for you? Is there  somthing you want? I\`m begging you.
 
-`BO`: Are you serious? umm... 🤔 okey but there is one condition. I want you to buy cloths to buy.
+`BO`: Are you serious? umm... 🤔 okey but there is one condition. I want you to buy cloths for me.
 
-`CH`: umm... ☹️  how much is it? you know... I have no job now? oh I didn\`t mean I\`m gonna buy it for you...
+`CH`: umm... ☹️  how much is it? you know... I have no job now? oh I didn\`t mean I\`m not gonna buy it for you...
 
 `BO`: that\`s right baby that\`s right. It\`s not so expensive. you can buy it.
 
