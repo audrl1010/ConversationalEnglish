@@ -55,7 +55,7 @@ ex) He is supposed to be here. - 그가 여기 있어야 하는데 지금쯤(그
 ### 발음
 
 `I was supposed to be in Aruba.` : d로 끝나고 t로 시작할 때 앞에 발음 생략
-`It\`s been a long day.` : has(have) 발음은 거의 생략 / It\`s been 으로 외워두기.
+`It\`s been a long day.` : has(have) 발음은 거의 생략 It\`s been 으로 외워두기.
 
 
 ### 패턴
