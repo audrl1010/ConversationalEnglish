@@ -2,7 +2,7 @@
 
 [Script]
 
-*English*
+### English
 
 `Ross`: So Ranchel. What are you up to tonight?
 
@@ -17,7 +17,7 @@
 `Rachel`: Well. Actually, I think I\`m just gonna hangout tonight. It\`s been a kinda long day.
 
 
-*Korea*
+### Korea
 
 `Ross`: 레이첼, 너 오늘 뭐하기로 되어있어?
 
@@ -31,7 +31,7 @@
 
 `Rachel`: 글쎄. 사실은 오늘 밤 여기 주변 좀 돌아다닐까 했는데... 오늘 정말 긴 하루였거든..
 
-Summary
+### Summary
 
 `be up to`: ~할 일이다(의무적으로)
 ex) It\`s up to you - 이건 너하기에 달려 있어
@@ -52,16 +52,16 @@ ex) He is supposed to be here. - 그가 여기 있어야 하는데 지금쯤(그
 
 `hangout(=hangaround)`: 바깥에 돌아다니다. 바깥에서 시간을 보내다.
 
-*발음*
+### 발음
 
 `I was supposed to be in Aruba.` : d로 끝나고 t로 시작할 때 앞에 발음 생략
-`It`s been a long day.` : has(have) 발음은 거의 생략 / It`s been 으로 외워두기.
+`It\`s been a long day.` : has(have) 발음은 거의 생략 / It\`s been 으로 외워두기.
 
 
-*패턴*
+### 패턴
 `What do you want me to do`: 너는 내가 무엇을 ~하기를 원해?
 
-*실전연습*
+### 실전연습
 (노트북을 누나에게 빌리는 상황...)
 
 `CH`: Can I borrow your laptop?
