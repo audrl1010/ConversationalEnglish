@@ -14,10 +14,11 @@
 
 `Ross`: Joey and Chandler are coming over to help me put together my new furniture.
 
-`Rachel`: Well. Actually, I think I`m just gonna hangout tonight. It`s been a kinda long day.
+`Rachel`: Well. Actually, I think I\`m just gonna hangout tonight. It\`s been a kinda long day.
 
 
 *Korea*
+
 `Ross`: 레이첼, 너 오늘 뭐하기로 되어있어?
 
 `Rachel`: 글쎄. 지금쯤 나는 신호여행으로 아루바에 있어야 하는건데.. 어쨌든 아무것도 없어.
