@@ -231,23 +231,37 @@ Mon:
 #### English
 
 `W`: What time is it now ? (강한 어감)
+
 `M`: I\`m sorry. I've been working on it... I\`m just about to call you.
+
 `W`: Didn\`t you have time to call me for a second?
+
 `M`: I've been so busy I could never call you.
+
 `W`: I think you can send me a message.
+
 `M`: I should have sent you a message. I\`m very very sorry...
+
 `W`: ha.... I was very worried about you. I thought something had happened to you.
+
 `M`: I\`m so sorry... I won\`t let this happen again.
 
 #### Korea
 
 `W`: 지금 몇시야 ? (강한 어감)
+
 `M`: 미안해... 계속 일하고 있엇어.. 막 지금 전화하려고 했었는데...
+
 `W`: 잠깐 전화할 시간도 없었어 ?
+
 `M`: 너무 바빠서... 너안테 전화할 수가 없었어.. 
+
 `W`: 메시지는 보낼 수 있었잖아.
+
 `M`: 너안테 메시지는 보냈어야 했는데.. 진짜 진짜 미안해..
+
 `W`: 하.... 너 엄청 걱정했잖아.. 무슨일 생긴줄알고..
+
 `M`: 진짜 미안해... 다음에는 이런일 없도록 할게...
 
 
@@ -393,27 +407,35 @@ I\`m calling to say hello.
 (club...)
 
 `CH`: Hello ~
+
 `G`: Oh ~ Hi ~
 
 `CH`: I\`m here to want to talk with you. Do you come here alone?
+
 `G`: No, I came here with my friends. They are dancing with some guys.. bored..
 
 `CH`: Oh really? That\`s good. How often do you come here? 
+
 `G`: At least twice a week..
 
 `CH`: Aren\`t you hurgry?
+
 `G`: a little.
  
 `CH`: Do you like pizza?
+
 `G`: Yes, I do.
 
 `CH`: Have you gone to 보니스피자집 in 경리단길?
+
 `G`: No, I don\`t know... 
 
 `CH`: (사진을 보여주는중...)
+
 `G`: How far is there from here?
 
 `CH`: It is near here. Let\`s go out ~
+
 `G`: Yes ~~~
 
 ## 12강. I`m calling to + v ~ 하려고 전화했어요
