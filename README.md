@@ -408,13 +408,13 @@ This is all about what I sai`d` the other day.
 
 I\`m calling to ~ 하려고 전화했어요.
 
-I\`m calling to make an appointment.
-I\`m calling to cancel my schedule.
-I\`m calling to confirm my flight ticket.
-I\`m calling to say goodbye.
-I\`m calling to ask you a favor.
-I\`m calling to make a reservation.
-I\`m calling to say hello.
+- I\`m calling to make an appointment.
+- I\`m calling to cancel my schedule.
+- I\`m calling to confirm my flight ticket.
+- I\`m calling to say goodbye.
+- I\`m calling to ask you a favor.
+- I\`m calling to make a reservation.
+- I\`m calling to say hello.
 
 ### 실전연습
 
