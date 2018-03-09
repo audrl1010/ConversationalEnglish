@@ -349,61 +349,84 @@ You should have gone a little further and made a U-turn..
 `MG`: always doing this...
 
 
-## 11강. 
+## 11강. I`m calling to + v ~ 하려고 전화했어요
 
 [Script]
 
 ### English
 
-`Paul`: Ever since she walked out on me, I, uh....
+`Rach`: I\`m calling to apologize for my fault. I\`m sorry... I am so sorry.. I know you probably think this is all about what I said the other day about making love with your socks on, but it isn\`t... it isn\`t, it\`s about me, and I just.... Hi, machine cut me off again... anyway... look, look, I know that some girl is going to be lucky to become Mrs. Barry Finkel, but it isn\`t me, is\`s not me. Hello? hello?
 
-`Mon`: What? .... What do you wanna say?
-
-`Paul`: No, It`s, it`s more of a fifth date thing.
-
-`Mon`: Oh, so there is gonna be a fifth date?
-
-`Paul`: Isn`t there?
-
-`Mon`: Yeah... yeah, I think there is. What were you gonna say?
-
-`Paul`: Well, ever since she left me, um, I haven`t been able to perform .... Sexually
-
-`Mon`: Wow... I`m sorry. how long?
-
-`Paul`: Two years.
-
-`Mon`: Wow! I`m so sorry.
-
-`Paul`: So you still think you might want that fifth date?
-
-Mon: Yeah. Yeah, I do. 
 
 ### Korea
 
-Paul: 
+`Rach`: Barry, 제 잘못에 대해 사과하려고 전화했어요. 미안해요, 정말 미안해요... 아마 전날 당신이 양말 신고자는 걸 내가 뭐라고 그랬다고, 그래서 내가 그럴 거라고 당신이 생각하는 거 알아요. 근데 그거 아니에요. 나 때문이에요, 난 그저 (전화가 뚝 끊긴다) 저기요, 자동응답기가 또 끊어졌어요. 아무튼, 저기요, 저기... 당신의 부인이 되는 행운의 여자가 있을 거에요. 하지만 전 아닌 거 같아요. 전 아니에요. 여보세요? 여보세요?
 
-Mon: 
+### Summary
 
-Paul: 
+with = having
+She\`s staring at me with her earings on.[그녀는 귀걸이를 한채로 나를 바라보고 있다.]
+She\`s standing with make up on [그녀는 화장한채로 서있다.]
 
-Mon: 
+### 발음
 
-Paul: 
+ing는 '잉'이 아닌 'ㄴ'으로 발음한다.
+I\`m calling to apologize for my fault.
 
-Mon: 
+`D`와 `TH`가 충돌할 때 앞의 알파벳은 생략해서 발음한다.
+This is all about what I sai`d` the other day.
 
-Paul: 
+### 패턴
 
-Mon: 
+I\`m calling to ~ 하려고 전화했어요.
 
-Paul: 
+I\`m calling to make an appointment.
+I\`m calling to cancel my schedule.
+I\`m calling to confirm my flight ticket.
+I\`m calling to say goodbye.
+I\`m calling to ask you a favor.
+I\`m calling to make a reservation.
+I\`m calling to say hello.
 
-Mon: 
+### 실전연습
 
-Paul: 
+(club...)
 
-Mon: 
+`CH`: Hello ~
+`G`: Oh ~ Hi ~
+
+`CH`: I\`m here to want to talk with you. Do you come here alone?
+`G`: No, I came here with my friends. They are dancing with some guys.. bored..
+
+`CH`: Oh really? That\`s good. How often do you come here? 
+`G`: At least twice a week..
+
+`CH`: Aren\`t you hurgry?
+`G`: a little.
+ 
+`CH`: Do you like pizza?
+`G`: Yes, I do.
+
+`CH`: Have you gone to 보니스피자집 in 경리단길?
+`G`: No, I don\`t know... 
+
+`CH`: (사진을 보여주는중...)
+`G`: How far is there from here?
+
+`CH`: It is near here. Let\`s go out ~
+`G`: Yes ~~~
+
+## 12강. I`m calling to + v ~ 하려고 전화했어요
+
+[Script]
+
+### English
+
+`Rach`: 
+
+### Korea
+
+`Rach`: 
 
 ### Summary
 
