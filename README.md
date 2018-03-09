@@ -59,9 +59,11 @@ ex) He is supposed to be here. - 그가 여기 있어야 하는데 지금쯤(그
 
 
 ### 패턴
+
 `What do you want me to do`: 너는 내가 무엇을 ~하기를 원해?
 
 ### 실전연습
+
 (노트북을 누나에게 빌리는 상황...)
 
 `CH`: Can I borrow your laptop?
@@ -88,11 +90,325 @@ ex) He is supposed to be here. - 그가 여기 있어야 하는데 지금쯤(그
 
 
 
+## 8강. I am going to (gonna) 너는 내가 무엇을 ~하기를 원해?
+
+[Script]
+
+### English
+
+`Paul`: Ever since she walked out on me, I, uh....
+
+`Mon`: What? .... What do you wanna say?
+
+`Paul`: No, It`s, it`s more of a fifth date thing.
+
+`Mon`: Oh, so there is gonna be a fifth date?
+
+`Paul`: Isn`t there?
+
+`Mon`: Yeah... yeah, I think there is. What were you gonna say?
+
+`Paul`: Well, ever since she left me, um, I haven`t been able to perform .... Sexually
+
+`Mon`: Wow... I`m sorry. how long?
+
+`Paul`: Two years.
+
+`Mon`: Wow! I`m so sorry.
+
+`Paul`: So you still think you might want that fifth date?
+
+Mon: Yeah. Yeah, I do. 
+
+### Korea
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+### Summary
+
+### 발음
+
+### 패턴
+
+### 실전연습
 
 
+## 9강. 
+
+[Script]
+
+#### English
+
+`Ross`: This was Carol\`s favorite beer. She always drank it out of the can, I should have known then.
+
+`Joey`: Hey-hey-hey-hey, if you\`re gonna start with that stuff, we\`re outta here.
+
+`Chan`: Yes, please don\`t spoil all this fun.
+
+`Ross`: I\`m just about to forget her.
+
+`Joey`: Ross, let me ask you a question. She got the furniture, the stereo, and the good TV. What did you get ?
+
+`Ross`: You guys.
+
+`Chan`: Oh, God.
+
+`Joey`: You got screwed.
+
+#### Korea
+
+`Ross`: 이거 케롤이 가장 좋아하는 맥주인데, 개는 항상 캔 통제로 마셨어, 그때 내가 알아봤어야 했는데.
+
+`Joey`: 야야야, 너 그딴거 시작거면 우리 여기 나걸거야.
+
+`Chan`: 알았어, 이 재밌는 분위기 망치지마.
+
+`Ross`: 나 막 개 잊을려던 참이야.
+
+`Joey`: 로스, 하나만 물어보자. 개는 가구, 스테레오, 좋은 TV를 가져갔잖아. 너는 뭘 가져갔어?
+
+`Ross`: 너희들..
+
+`Chan`: 미쳤다...
+
+`Joey`: 너 정신나갔구나.
+
+### Summary
+
+`out of`: `밖`, `~가 없는`, out of control `통제할 수 없는`, out of order `고장난`, out of place `장소에 맞지 않는(부적절한 말이나 행동)`
+
+`should have p.p`: 했어야 했는데 (못했다)
+- `I should have called him`: 그 사람한테 전화 했어야 했는데 (결국 못함)
+- `I should have worked out`: 운동했어야 했는데 (결국 못함)
+- `I should have met her`: 그 여자 만날 걸. (결국 못함)
+
+`stuff`: 이딴거, 그딴거 (뭉뜽그려 쓸 때)
+
+`outta`: out of의 줄임말
+
+### 발음
+
+1. if you\`re gonna start(스탈~, t발음안함) with that(위 댓, th 겹치므로 한번만 발음) stuff
+
+2. We\`re(워) outta(아라) here.
+
+### 패턴
+
+`I'm just about to`: 막 ~ 하려고 하다.
+- I\`m just about to call you`, 너한테 막 전화하려던 참이야.
+- I\`m just about to say something, 
+- I\`m just about to throw in a towel, 포기하려던 참이야.
+- I\`m just about to cross my mind, 지금 막 생각나려던 참이야.
+- I\`m just about to take a taxi, 지금 막 택시를 타려던 참이야.
+- I\`m just about to take a bus, 지금 막 버스를 타려던 참이야.
+
+### 실전연습
+
+(부부, 밤 11시 38분..., 여자는 집에 있고, 남편이 퇴근하는 상황)
+
+#### English
+
+`W`: What time is it now ? (강한 어감)
+`M`: I\`m sorry. I've been working on it... I\`m just about to call you.
+`W`: Didn\`t you have time to call me for a second?
+`M`: I've been so busy I could never call you.
+`W`: I think you can send me a message.
+`M`: I should have sent you a message. I\`m very very sorry...
+`W`: ha.... I was very worried about you. I thought something had happened to you.
+`M`: I\`m so sorry... I won\`t let this happen again.
+
+#### Korea
+
+`W`: 지금 몇시야 ? (강한 어감)
+`M`: 미안해... 계속 일하고 있엇어.. 막 지금 전화하려고 했었는데...
+`W`: 잠깐 전화할 시간도 없었어 ?
+`M`: 너무 바빠서... 너안테 전화할 수가 없었어.. 
+`W`: 메시지는 보낼 수 있었잖아.
+`M`: 너안테 메시지는 보냈어야 했는데.. 진짜 진짜 미안해..
+`W`: 하.... 너 엄청 걱정했잖아.. 무슨일 생긴줄알고..
+`M`: 진짜 미안해... 다음에는 이런일 없도록 할게...
 
 
+## 10강. I`m here to ~ (나 여기 ~ 하려고 왔어)
+
+[Script]
+
+### English
+
+`Ross`: I\`m divorced! I\`m only 26 and I\`m divorced!
+
+`Joey`: Shut up!
+
+`Chan`: You must stop!
+
+`Ross`: What if there\`s only one woman for everybody. Unfortunately in my case, there was only one woman for her.
+
+`Joey`: What are you talking about ? \`One woman \`? That\`s like saying there\`s only one flavor of ice-cream for you. C\`mon, there`s lots of flavors out there.
+
+`Ross`: I\`m here to take comfort. But now, I don\`t know if I\`m hungry or horny.
+
+`Chan`: Stay out of my freezer.
+
+### Korea
+
+`Ross`: 나 이혼했어... 난 겨우 26 밖에 안됬는데... 나 이혼했다구...
+
+`Joey`: 닥처!
+
+`Chan`: 너 멈춰!!!
+
+`Ross`: 모든 사람들에게 오직 한명의 여자만 있다면 어쩌지.. 불행하게도 내 경우엔... 한 여자가 다른 여자를 위한 사람이었어..
+
+`Joey`: 무슨 말하는거야 ? 한명의 여자 ? 너를 위한 아이스크림 종류가 오직 하나라고 말하는 것 같네.. 제발좀...!!!!, 바깥 세상엔 많은 종류가 있다구 !!!
+
+`Ross`: 나 여기 위로 받으러 왔는데... 근데 지금, 난 배고픈건지 아니면 여자가 고픈건지 모르겠어...
+
+`Chan`: 내 냉장고에서 떨어져!
+
+### Summary
+
+`only`: 오직, 겨우, 단지, 이제, 고작
+`divorced`: `이혼하다`, 능동도 쓰지만 거의 수동으로 많이 쓰인다.
+`married`: `결혼하다`, 능동도 쓰지만 거의 수동으로 많이 쓰인다.
+`what if`: `~하면 어쩌지`
+`flavor`: `종류`
+`C\`mon`:  재촉하면서, `빨리 좀 해`, `하지 좀마`
+`out there`: `바깥세상`
+`take comfort`: `위로받다`
+`horny`: `(성적으로) 여자가 고픈`
+`stay out of`: `~로부터 멀리 떨어지다`
+`stay out of my sight`: `내 눈앞에서 사라져`
+`stay out of this matter`: `이 일에 간섭하지마!`
+`stay out of trouble`: `사고치지마`
+
+### 발음
+
+I\`m only 26 and I\`m divorced. (and I`m, 앤 암, 뒤에 문장과 바로 연음)
+
+You mu`st` `s`top. (s다음 t발음 날려주기, 충돌되는 s는 합쳐서 발음)
+
+### 패턴
+
+I\`m here to ~ (나 여기 ~ 하려고 왔어)
+
+I\`m here to help you. (나 너 도와주려고 왔어.)
+I\`m here to stay with you. (나 너랑 있을려고 왔어.)
+I\`m here to see your boss. (나 너의 상사를 보려고 왔어.)
+I\`m here to get a trim. (나 머리 다듬으러 왔어요.)
+I\`m here to make a deposit. (나 은행 계좌 만들러 왔어요.)
+
+### 실전연습
+
+(운전면허... 시험보는 상황)
+
+`MG`: I\`m here to take an exam of driver\`s license.
+
+`DI`: Your turn is third.
+
+`MG`: How long do I have to wait ?
+
+`DI`: It is about 3 hours.
+
+... (waiting for 3 hours)...
+
+`DI`: MG, It is your turn.
+
+... (taking an exam)...
+
+`DI`: You are disqualified. pull over to the right.
+
+`MG`: Oh my got.. What matter is it ?
+
+`DI`: You went to the wrong path...
+how many times did I talk to you?
+I told you to be careful about it.
+You should have gone a little further and made a U-turn..
+
+`MG`: always doing this...
 
 
+## 11강. 
 
+[Script]
 
+### English
+
+`Paul`: Ever since she walked out on me, I, uh....
+
+`Mon`: What? .... What do you wanna say?
+
+`Paul`: No, It`s, it`s more of a fifth date thing.
+
+`Mon`: Oh, so there is gonna be a fifth date?
+
+`Paul`: Isn`t there?
+
+`Mon`: Yeah... yeah, I think there is. What were you gonna say?
+
+`Paul`: Well, ever since she left me, um, I haven`t been able to perform .... Sexually
+
+`Mon`: Wow... I`m sorry. how long?
+
+`Paul`: Two years.
+
+`Mon`: Wow! I`m so sorry.
+
+`Paul`: So you still think you might want that fifth date?
+
+Mon: Yeah. Yeah, I do. 
+
+### Korea
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+Paul: 
+
+Mon: 
+
+### Summary
+
+### 발음
+
+### 패턴
+
+### 실전연습
