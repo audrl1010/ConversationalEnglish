@@ -304,17 +304,29 @@ Mon:
 ### Summary
 
 `only`: 오직, 겨우, 단지, 이제, 고작
+
 `divorced`: `이혼하다`, 능동도 쓰지만 거의 수동으로 많이 쓰인다.
+
 `married`: `결혼하다`, 능동도 쓰지만 거의 수동으로 많이 쓰인다.
+
 `what if`: `~하면 어쩌지`
+
 `flavor`: `종류`
+
 `C\`mon`:  재촉하면서, `빨리 좀 해`, `하지 좀마`
+
 `out there`: `바깥세상`
+
 `take comfort`: `위로받다`
+
 `horny`: `(성적으로) 여자가 고픈`
+
 `stay out of`: `~로부터 멀리 떨어지다`
+
 `stay out of my sight`: `내 눈앞에서 사라져`
+
 `stay out of this matter`: `이 일에 간섭하지마!`
+
 `stay out of trouble`: `사고치지마`
 
 ### 발음
@@ -379,7 +391,9 @@ You should have gone a little further and made a U-turn..
 ### Summary
 
 with = having
+
 She\`s staring at me with her earings on.[그녀는 귀걸이를 한채로 나를 바라보고 있다.]
+
 She\`s standing with make up on [그녀는 화장한채로 서있다.]
 
 ### 발음
