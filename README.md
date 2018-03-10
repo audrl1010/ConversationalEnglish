@@ -471,3 +471,81 @@ I\`m calling to ~ 하려고 전화했어요.
 ### 패턴
 
 ### 실전연습
+
+## 14강. I\`m telling you ~ 정말이야
+
+[Script]
+
+### English
+
+`Frannie`: Hey, Monica!
+
+`Mon`: Hey, Frannie.
+
+`Frannie`: You had a date with Paul, right?
+
+`Mon`: How do you know that? You know Paul?
+
+`Frannie`: Oh yeah, I know Paul.
+
+`Mon`: You mean you know Paul like I know Paul?
+
+`Frannie`: Are you kidding? You know, before me, there was no dating for two years.
+
+`Mon`: What?
+
+`Frannie`: I\`m telling you, I take credit for Paul.
+
+### Korea
+
+`Frannie`: 안녕, Monica!
+
+`Mon`: 안녕, Frannie.
+
+`Frannie`: Paul하고 데이트했구나. 그렇지?
+
+`Mon`: 그거 어떻게 알아? Paul을 알아?
+
+`Frannie`: 응. Paul을 알지
+
+`Mon`: 내가 Paul을 아는 만큼, 너도 그에 대해 안다고?
+
+`Frannie`: 장난해? 나 만나기 전에, 2년간 데이트 한번 못해 봤대.
+
+`Mon`: 뭐라고?
+
+`Frannie`: 정말이야, Paul이 나한테 감사해야지.
+
+### Summary
+
+right의 뜻
+1. 오른쪽
+2. 옳은
+3. 즉시
+4. 그렇지 ? 부가 의문문
+
+You had not have a lunch, did you (=right)?
+
+You had a date with Paul, didn\`t you (=right)?
+
+`take credit for`: ~에 대해서 신용을 얻다, 평판을 얻다, 기여를 하다
+
+### 발음
+
+T가 단어 중간에 있을 때는 약한 `ㄷ`'이나 `ㄹ`로 발음한다 ex) There was no da`t`ing for two years.
+
+단어 끝이 `T`로 끝날 때는 받침 발음한다. ex) I take credi`t` for Paul.
+
+### 패턴
+
+I\`m telling you ~ 정말이야 (감탄사에 가깝다, 너안테 자신있게 말하는 중이야 이말이 즉, 정말이야 라고 표현할 수 있음)
+
+- I\`m telling you, I\`m full.
+- I\`m telling you, it\`s him.
+- I\`m telling you, he\`s single.
+- I\`m telling you, I\`ve never been there.
+- I\`m telling you, I\`m gonna give you a ride.
+- I\`m telling you, I wanna give you a ride.
+- I\`m telling you, it\`s up to him/
+
+### 실전연습
